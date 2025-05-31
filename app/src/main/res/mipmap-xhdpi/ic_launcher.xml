@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_launcher_background" />
+    <foreground>
+        <vector
+            android:width="108dp"
+            android:height="108dp"
+            android:viewportWidth="108"
+            android:viewportHeight="108"
+            android:tint="#FFFFFF">
+            <path
+                android:fillColor="#FFFFFF"
+                android:pathData="M36,28.83L72,28.83L72,79.17L61.17,79.17L61.17,39.67L46.83,39.67L46.83,79.17L36,79.17L36,28.83ZM39.67,68.33L57.5,68.33L57.5,79.17L39.67,79.17L39.67,68.33Z" />
+        </vector>
+    </foreground>
+</adaptive-icon>
