@@ -177,4 +177,4 @@ Carry cash
 for rural stores/campgrounds (not everywhere takes cards)
 UP Adventure Map
 Android travel companion app Team design
-Porcupine Mountains Trip 6
+Porcupine Mountains Trip 
